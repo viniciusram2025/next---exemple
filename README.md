@@ -1,3 +1,44 @@
+## Meu repositório pessoal de exemplos para aplicativos NextJs.
+
+
+Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app --exemple (https://github.com/viniciusram2025/next---exemple)`](https://github.com/viniciusram2025/next---exemple).
+
+## Iniciando Projeto
+
+Primeiro, execute o servidor de desenvolvimento:
+
+```bash
+npm run dev
+# ou
+yarn dev
+```
+
+Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
+
+Você pode começar a editar a página modificando `pages/index.js`. A página é atualizada automaticamente conforme você edita o arquivo.
+
+## Predefinições
+
+Neste exemplo, temos as configurações para:
+
+- Eslint - `.eslint.js`
+- Prettier - `.prettierrc.js`
+- Jest - `jest.config.js`
+- Babel - `.babelrc`
+- Storybook - `.storybook`
+
+Há também uma pasta de componentes com um componente de exemplo e arquivos:
+
+- `index.jsx` - exemplo de arquivo index.
+- `stories.jsx` - arquivo de stories já configurado e funcionando.
+- `styles.js` - estilos com Styled-Components já prontos para escrita.
+- `CloneMe.test.jsx` - um arquivo para teste no Jest já com o teste do arquivo index.js pronto.
+
+
+##
+##
+
+## --> English verison
 
 ## My personal repository of examples for NextJs applications.
 
